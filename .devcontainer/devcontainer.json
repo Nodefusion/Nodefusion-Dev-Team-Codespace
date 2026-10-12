@@ -14,7 +14,7 @@
     }
   },
 
-  "workspaceFile": "/workspaces/NodefusionITOps-dev/nodefusion.code-workspace",
+  "workspaceFile": "/workspaces/Nodefusion-Dev-Team-Codespace/nodefusion.code-workspace",
 
   "remoteEnv": {
     "ASPNETCORE_ENVIRONMENT": "Development",
